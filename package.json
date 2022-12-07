@@ -46,7 +46,7 @@
     "react-paginate": "^8.1.4",
     "react-router-dom": "^6.4.0",
     "react-router-scroll-top": "^0.3.1",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^2.1.3",
     "react-scroll": "^1.8.8",
     "react-show-more-text": "^1.6.2",
     "react-slick": "^0.29.0",
@@ -56,7 +56,7 @@
     "slick-carousel": "^1.8.1",
     "styled-components": "^4.1.3",
     "swiper": "^8.4.4",
-    "vercel": "^28.7.2",
+    "vercel": "^19.1.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
