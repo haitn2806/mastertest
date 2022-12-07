@@ -1,0 +1,23 @@
+.Lao {
+  height: auto;
+}
+
+.headder {
+  height: 1300px;
+  background-image: url("./../../data/images/banner/laos.jpg");
+  background-size: cover;
+}
+
+.piture-lao {
+  background-color: #494949;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 2%;
+}
+
+.pictulao {
+  width: 20%;
+  background-image: url("./../../data/images/banner/25.jpg");
+  background-size: cover;
+}

@@ -1,0 +1,10 @@
+diff a/src/pages/TripFinder/index.jsx b/src/pages/TripFinder/index.jsx	(rejected hunks)
+@@ -116,7 +116,7 @@
+     setCheck(!check);
+   };
+ 
+-  const [show,setshow] = useState('hidden');
++  const [show,setshow] = useState('show');
+   const ShowFinder = () => {
+     {show=='hidden'?setshow('show'):setshow('hidden')}
+   }
